@@ -34,7 +34,7 @@
 
     ```
     cd windows_64
-    ./ding -config ding.cfg -subdomain abcde 8080
+    ding.exe -config ding.cfg -subdomain abcde 8080
     ```
 
     启动后界面如下图所示：
